@@ -6,8 +6,9 @@ This project focuses on analyzing and reducing Delivery Partner (DP) churn for Z
 ---
 ## Summary
 <img width="1811" height="507" alt="Image" src="https://github.com/user-attachments/assets/30eb842e-a151-4089-98b5-6d8f74334ad1" />
+<img width="1815" height="643" alt="Image" src="https://github.com/user-attachments/assets/656cdbb4-f015-4102-9513-68cd2b896a12" />
 
-
+---
 
 ## 🎯 Objective
 - Identify key factors driving Delivery Partner churn  
